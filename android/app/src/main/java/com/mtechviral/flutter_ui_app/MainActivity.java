@@ -1,4 +1,4 @@
-package com.mtechviral.flutteruikit;
+package com.mtechviral.flutteruiapp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
